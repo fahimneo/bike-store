@@ -1,0 +1,23 @@
+  
+/* common properties  */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;700;900&display=swap');
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+  color: rgba(0, 0, 0, 1);
+  font-weight: bold;
+}
+
+p {
+  color: rgba(224, 224, 224, 1);
+}
+
+/* feature section  */
+.feature-bike1 {
+  filter: grayscale(100%);
+}
+.feature-bike3 {
+  filter: grayscale(100%);
+}
